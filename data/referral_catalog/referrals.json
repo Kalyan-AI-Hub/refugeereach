@@ -1,0 +1,38 @@
+[
+  {
+    "service": "Medical Triage",
+    "description": "24-hour medical triage for new arrivals. Bring this summary to the blue tent at the camp entrance.",
+    "location": "Medical Tent, Camp Entrance",
+    "contact": "Ask any staff for escort"
+  },
+  {
+    "service": "UNHCR Registration",
+    "description": "Official UNHCR registration for asylum seekers. Required for access to all camp services.",
+    "location": "Registration Center, Zone A",
+    "contact": "Open 8am–5pm daily"
+  },
+  {
+    "service": "Legal Orientation",
+    "description": "Free group session explaining asylum rights and procedures. No appointment needed.",
+    "location": "Legal Aid Clinic, Zone A",
+    "contact": "Sessions at 9am and 2pm"
+  },
+  {
+    "service": "Child Protection",
+    "description": "Confidential support for unaccompanied minors and families with children at risk.",
+    "location": "UNICEF Office, Zone C",
+    "contact": "Available 24 hours for urgent cases"
+  },
+  {
+    "service": "Mental Health Support",
+    "description": "Confidential counseling and psychosocial support for adults and children.",
+    "location": "IRC Mental Health Tent, Zone B",
+    "contact": "Walk-in or ask at reception"
+  },
+  {
+    "service": "Women and Girls Safe Space",
+    "description": "Safe space for women and girls offering support, activities, and referrals to specialist services.",
+    "location": "Zone D, Purple Building",
+    "contact": "Open 8am–6pm"
+  }
+]

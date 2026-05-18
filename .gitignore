@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.local
+
+# DB and vector store — exclude data files, not source code
+*.db
+*.sqlite
+app/backend/db/chroma/
+app/backend/db/*.db
+
+# Ollama model weights (large binary files)
+*.gguf
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Demo assets (add real synthetic docs manually, don't auto-commit)
+data/sample_documents/*.jpg
+data/sample_documents/*.png
+data/sample_documents/*.pdf
+
+# Eval outputs
+models/evals/results/
+
+# Claude Code settings
+.claude/
+
+# Duplicate DB at repo root (canonical location is app/backend/db/)
+refugeereach.db

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Registered Nurse — Camp Medical Unit",
+    "description": "Qualified nurses and midwives needed urgently for the camp medical unit. Responsibilities include patient triage, wound care, medication administration, and supporting the camp doctor. Nursing degree or equivalent clinical experience required. Arabic, French, or English speakers prioritised.",
+    "location": "Camp Medical Center, Zone A"
+  },
+  {
+    "title": "Pediatric Healthcare Assistant",
+    "description": "Support pediatric nurses and doctors with child health assessments, vaccination record review, and growth monitoring. Prior nursing, midwifery, or pediatric care experience essential. Positions available immediately.",
+    "location": "UNICEF Children's Health Clinic, Zone B"
+  },
+  {
+    "title": "Community Health Worker Assistant",
+    "description": "Support trained health workers with patient registration, translation, and basic triage at the camp medical center. Prior nursing, paramedic, or medical experience preferred. No additional training required for qualified applicants.",
+    "location": "Camp Medical Center, Zone A"
+  },
+  {
+    "title": "Interpreter / Language Support Volunteer",
+    "description": "Assist NGO staff as an interpreter for Arabic, Dari, Ukrainian, or French speakers during registration and legal orientation sessions. Bilingual applicants with any professional background welcome.",
+    "location": "Reception Center, Main Hall"
+  },
+  {
+    "title": "Child Nutrition Program Assistant",
+    "description": "Help weigh and measure children, record intake data, and support community health workers delivering nutritional supplements. Training provided. Healthcare background an advantage.",
+    "location": "UNICEF Nutrition Tent, Zone B"
+  },
+  {
+    "title": "Primary School Teaching Assistant",
+    "description": "Support UNHCR education partner classrooms for children aged 6–12. Qualified teachers and educators prioritized. Language support a plus.",
+    "location": "Camp School, Zone C"
+  },
+  {
+    "title": "Vocational Training — Construction Skills",
+    "description": "4-week certified training in basic construction, shelter maintenance, and WASH facility repair. Open to adults 18+.",
+    "location": "ILO Training Center"
+  },
+  {
+    "title": "Legal Aid Intake Support",
+    "description": "Assist legal aid volunteers by helping clients complete intake forms and understand their rights under asylum procedures. No legal background required.",
+    "location": "Legal Aid Clinic, Zone A"
+  },
+  {
+    "title": "IT and Digital Literacy Trainer",
+    "description": "Teach basic computer and smartphone skills to community members. Experience in IT, computing, or education preferred.",
+    "location": "Community Center, Zone D"
+  },
+  {
+    "title": "Food Distribution Support",
+    "description": "Assist WFP food distribution teams with sorting, packing, and record-keeping during weekly distributions. Physical fitness required.",
+    "location": "Distribution Point 3, Zone B"
+  }
+]
